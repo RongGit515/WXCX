@@ -11,7 +11,7 @@ Page({
     console.log('current index has changed', e.detail)
   },
   delete(e) {
-    console.log('delete', e.detail)
+    console.log('Demo', e.detail)
   },
   hide() {
     console.log('component hide')
